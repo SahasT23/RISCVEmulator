@@ -516,8 +516,8 @@ void Emulator::print_welcome() {
                         |___/                                                                                                    
                                                           
                 ============== RV32IM Emulator ==============
-                    Single-Cycle & 5-Stage Pipeline Simulation
-                            Type 'help' for commands
+                 Single-Cycle & 5-Stage Pipeline Simulation
+                         Type 'help' for commands
 
 )" << std::flush;
 }
