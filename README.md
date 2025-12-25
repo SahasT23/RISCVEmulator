@@ -6,6 +6,7 @@ Options to run the emulator with out hazards and/or forwarding and/or pipelining
 
 You can choose the single-cycle processor or the 5-stage processor.
 
+```
 riscv-emulator/
 ├── include/
 │   ├── common.hpp
@@ -35,3 +36,4 @@ riscv-emulator/
 │   └── hazard_demo.asm
 ├── Makefile
 └── README.md
+```
